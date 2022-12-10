@@ -1,0 +1,18 @@
+﻿body {
+    background: content-box linear-gradient(to right,  skyblue, grey, lightblue);
+    color: #000000;
+}
+
+header {
+ 
+    position: relative;
+    
+    align-items:center;
+}
+
+c {
+ 
+    position: relative;
+    left:  70px;
+    align-items:center;
+}
